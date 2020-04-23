@@ -19,7 +19,7 @@ As the sensor data table had thousands of records, I decided to add some paginat
 where I show 15 records at a time on screen.  Other features include sorting headers to sort data, <br>
 filtering the data using the filter input box and a graph showing the sensor readings over time which <br>
 was stored in a separate graph component.
-<br>
+<br><br>
 Things to improve: Updating the graph from the filter from the table so that both the table and graph <br>
 are dynamic.
 
